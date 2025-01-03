@@ -3,14 +3,19 @@
 
 ## Features
 English to Hindi Translation: Converts English text into Hindi using a pre-trained transformer model.
+
 User-Friendly Interface: Built with Gradio for seamless interaction.
 
 ## Technologies Used
 Python
+
 Transformers: For accessing pre-trained NLP models.
+
 Gradio: For creating the user interface.
+
 PyTorch: As the underlying framework for running the model
 
 ## Acknowledgments
 Hugging Face: For providing the Helsinki-NLP/opus-mt-en-hi translation model.
+
 Gradio: For simplifying the creation of user-friendly interfaces.
