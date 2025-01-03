@@ -19,3 +19,5 @@ PyTorch: As the underlying framework for running the model
 Hugging Face: For providing the Helsinki-NLP/opus-mt-en-hi translation model.
 
 Gradio: For simplifying the creation of user-friendly interfaces.
+
+Use this link to modify for your work https://huggingface.co/models 
